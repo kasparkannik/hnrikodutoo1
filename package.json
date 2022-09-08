@@ -1,5 +1,15 @@
 {
   "dependencies": {
+    
+  }
+}
+{
+  "name": "main_app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "process.js",
+  "dependencies": {
+    "lodash": "^4.17.21",
     "express": "^4.18.1"
   }
 }
